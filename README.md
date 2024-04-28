@@ -14,7 +14,7 @@ To get started with **AI Matrix Scraper**, you will need Python installed on you
 
 1. Clone the repository:
    ```bash
-   git clone https://yourrepositorylink.com/ai-matrix-scraper.git
+   git clone https://armanisadeghi.com/ai-matrix-scraper.git
    ```
 2. Navigate to the project directory:
    ```bash
